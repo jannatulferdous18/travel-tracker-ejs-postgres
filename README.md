@@ -7,8 +7,8 @@ This app provides an engaging way for users to reflect on their global adventure
 
 ## Technologies 🛠️
 
-JavaScript
-Node.js
-Express.js
-Embedded JavaScript templates
-PostgreSQL
+- JavaScript
+- Node.js
+- Express.js
+- Embedded JavaScript templates
+- PostgreSQL
